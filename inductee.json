@@ -1,0 +1,386 @@
+[
+  {
+    "id": "5fd7f8b80f500c8e56cf00b8",
+    "firstName": "Patti",
+    "lastName": "Jannetta",
+    "occupation": "Musician",
+    "yearInducted": "2020",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/profile-photo/patti-jannetta.jpeg",
+    "template": 0,
+    "textContent": [
+      {
+        "id": "60370cd2cf34005dc1d20cc0",
+        "itemLabel": 0,
+        "contentDescription": "Patti Jannetta is a Canadian pop and rock singer, who was most prominent in the 1980s and early 1990s. She released her first album, Patti Jannetta, in 1981. The album's first single \"You've Got No One\" charted on the Adult Contemporary charts in RPM, peaking at #7 in the week of April 9, 1983,[4] the second single \"I'm Ready for Your Love\" peaked at #15 in the week of August 6, and \"Don't Change\" peaked at #13 in the week of April 7, 1984.."
+      },
+      {
+        "itemLabel": 0,
+        "contentDescription": "This is test content"
+      }
+    ],
+    "musicContent": [
+      {
+        "id": "60370d7bcf34005dc1d20cc1",
+        "itemLabel": 0,
+        "pathName": "https://www.youtube.com/watch?v=3jQ95jEOSQ4",
+        "songTitle": "Sunday Gone",
+        "songArtist": "Patti Jannetta"
+      },
+      {
+        "itemLabel": 0,
+        "pathName": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/music/Born Ruffians - Happy Parasites.mp3",
+        "songTitle": "Happy Parasites",
+        "songArtist": "Born Ruffians"
+      }
+    ],
+    "videoContent": [
+      {
+        "id": "60370e16cf34005dc1d20cc2",
+        "itemLabel": 3,
+        "pathName": "https://www.youtube.com/watch?v=e3ui5N0s8Og",
+        "contentDescription": "Somewhere Over The Rainbow by Patti Jannetta with John Ebata on Keyboards, Danny Turco on Guitar, Aaron Ferrera on Drums and Dave Baker on Bass. Video by Sanborg Productions."
+      }
+    ]
+  },
+  {
+    "id": "5fd7fab60f500c8e56cf00b9",
+    "firstName": "Phil X",
+    "lastName": "",
+    "occupation": "Musician",
+    "yearInducted": "2019",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Phil-X/profile-photo/phil-x.jpeg",
+    "template": 0,
+    "textContent": [
+      {
+        "itemLabel": 0,
+        "contentDescription": "This is test content"
+      }
+    ],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "5fd7fb060f500c8e56cf00ba",
+    "firstName": "Prakash",
+    "lastName": "John",
+    "occupation": "Musician",
+    "yearInducted": "2019",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Prakash-John/Prakash-John.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607785085e98dfb2d01accfe",
+    "firstName": "Jim",
+    "lastName": "Tovey",
+    "occupation": "Community Leader",
+    "yearInducted": "2018",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Jim-Tovey/profile-photo/jim-tovey.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607785325e98dfb2d01accff",
+    "firstName": "Randy",
+    "lastName": "Lennox",
+    "occupation": "Music Executive",
+    "yearInducted": "2017",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Randy-Lennox/profile-photo/randy-lennox.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607785835e98dfb2d01acd03",
+    "firstName": "Alex",
+    "lastName": "Pangman",
+    "occupation": "Musician",
+    "yearInducted": "2017",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Alex-Pangman/profile-photo/alex-pangman.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607785995e98dfb2d01acd04",
+    "firstName": "Liberty",
+    "lastName": "Silver",
+    "occupation": "Musician",
+    "yearInducted": "2017",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Liberty-Silver/profile-photo/liberty-silver.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607785aa5e98dfb2d01acd05",
+    "firstName": "Fito",
+    "lastName": "Blanko",
+    "occupation": "Musician",
+    "yearInducted": "2017",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Fito-Blanko/profile-photo/fito-blanko.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607785c25e98dfb2d01acd06",
+    "firstName": "Jeff",
+    "lastName": "Healey",
+    "occupation": "Musician",
+    "yearInducted": "2016",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Jeff-Healey/profile-photos/Jeff-Healey.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607785d55e98dfb2d01acd07",
+    "firstName": "Bobby Dean",
+    "lastName": "Blackburn",
+    "occupation": "Musician",
+    "yearInducted": "2016",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Bobby-Dean-Blackburn/profile-photos/Bobby-Dean-Blackburn.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607785f45e98dfb2d01acd08",
+    "firstName": "Cliff",
+    "lastName": "Hunt",
+    "occupation": "Industry Veteran",
+    "yearInducted": "2016",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Cliff-Hunt/profile-photos/Cliff-Hunt.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "6077862d5e98dfb2d01acd09",
+    "firstName": "Steve",
+    "lastName": "DeMarchi",
+    "occupation": "Musician",
+    "yearInducted": "2016",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Steve-DeMarchi/profile-photos/Steve-DeMarchi.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607786645e98dfb2d01acd0a",
+    "firstName": "Neill",
+    "lastName": "Dixon",
+    "occupation": "Music Management",
+    "yearInducted": "2015",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Neill-Dixon/profile-photos/neill-dixon.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607786935e98dfb2d01acd0b",
+    "firstName": "Rob",
+    "lastName": "Wells",
+    "occupation": "Producer",
+    "yearInducted": "2015",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Rob+Wells/profile-photos/rob-wells.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607786a75e98dfb2d01acd0c",
+    "firstName": "Denny",
+    "lastName": "Doherty",
+    "occupation": "Musician",
+    "yearInducted": "2015",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Denny-Doherty/profile-photos/denny-doherty.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607786cd5e98dfb2d01acd0d",
+    "firstName": "John",
+    "lastName": "Bride",
+    "occupation": "Musician",
+    "yearInducted": "2015",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/John-Bride/profile-photos/john-bride.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607786e45e98dfb2d01acd0e",
+    "firstName": "Tommy",
+    "lastName": "Hunter",
+    "occupation": "Musician",
+    "yearInducted": "2014",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Tommy-Hunter/profile-photos/Tommy-Hunter.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607786fe5e98dfb2d01acd0f",
+    "firstName": "Joey",
+    "lastName": "Cee",
+    "occupation": "Music Publisher",
+    "yearInducted": "2014",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Joey-Cee/profile-photos/Joey-Cee.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "6077871a5e98dfb2d01acd10",
+    "firstName": "Ron",
+    "lastName": "Harrison",
+    "occupation": "Musician",
+    "yearInducted": "2014",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Ron-Harrison/profile-photos/Ron-Harrison.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607787355e98dfb2d01acd11",
+    "firstName": "Billy Talent",
+    "lastName": "",
+    "occupation": "Band",
+    "yearInducted": "2014",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Billy-Talent/profile-photos/Billy-Talent.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607787545e98dfb2d01acd12",
+    "firstName": "Rik",
+    "lastName": "Emmett",
+    "occupation": "Musician",
+    "yearInducted": "2013",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Rik-Emmett/profile-photos/Rik-Emmett.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607787705e98dfb2d01acd13",
+    "firstName": "Charlie",
+    "lastName": "Camilleri",
+    "occupation": "Musician",
+    "yearInducted": "2013",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Charlie-Camilleri/profile-photos/Charlie-Camilleri.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "6077878f5e98dfb2d01acd14",
+    "firstName": "Nancy",
+    "lastName": "Walker",
+    "occupation": "Musician",
+    "yearInducted": "2013",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Nancy-Walker/profile-photos/Nancy-Walker.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607787a15e98dfb2d01acd15",
+    "firstName": "Chuck",
+    "lastName": "Jackson",
+    "occupation": "Musician",
+    "yearInducted": "2013",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Chuck-Jackson/profile-photos/Chuck-Jackson.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607788035e98dfb2d01acd16",
+    "firstName": "Eleanor",
+    "lastName": "Calbes",
+    "occupation": "Musician",
+    "yearInducted": "2013",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Eleanor-Calbes/profile-photos/Eleanor-Calbes.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607788195e98dfb2d01acd17",
+    "firstName": "Ronnie",
+    "lastName": "Hawkins",
+    "occupation": "Musician",
+    "yearInducted": "2012",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Ronnie-Hawkins/profile-photos/Ronnie-Hawkins.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607788305e98dfb2d01acd18",
+    "firstName": "Oscar",
+    "lastName": "Peterson",
+    "occupation": "Musician",
+    "yearInducted": "2012",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/profile-photos/Oscar-Peterson.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "607788475e98dfb2d01acd19",
+    "firstName": "Krisztina",
+    "lastName": "Szabo",
+    "occupation": "Musician",
+    "yearInducted": "2012",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Krisztina-Szabo/profile-photos/Krisztina-Szabo.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  },
+  {
+    "id": "6077885b5e98dfb2d01acd1a",
+    "firstName": "Gil",
+    "lastName": "Moore",
+    "occupation": "Musician",
+    "yearInducted": "2012",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Gil-Moore/profile-photos/Gil-Moore.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
+  }
+]
