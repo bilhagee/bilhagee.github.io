@@ -7,8 +7,8 @@
     "occupation": "Musician",
     "yearInducted": "2020",
     "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/profile-photo/patti-jannetta.jpeg",
-    "welcomeVideo""https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/videos/welcome_video_patti_janetta.mp4",
-    "facts":["She released her first album, \"Patti Jannetta\", in 1981.","Her father is Louis Jannetta, the longtime maitre d' of Toronto's Imperial Room","Her second album, Breathless, was released in 1988, and garnered radio airplay for the singles \"Party Girl\" and \"Name of the Game\". "]
+    "welcomeVideo":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/videos/welcome_video_patti_janetta.mp4",
+    "facts":["She released her first album, \"Patti Jannetta\", in 1981.","Her father is Louis Jannetta, the longtime maitre d' of Toronto's Imperial Room","Her second album, Breathless, was released in 1988, and garnered radio airplay for the singles \"Party Girl\" and \"Name of the Game\". "],
     "template": 0,
     "textContent": [
       {
@@ -49,15 +49,15 @@
     "photoContent":[
         {
         "photoUrl": "patti_album",
-        "caption":"Patti Jannetta's first album, self titled Patti Jannetta, in 1981"
+        "caption":"Patti Jannetta's first album, self titled Patti Jannetta, in 1981",
         "year":"1986"
     },{
         "photoUrl": "patti_home",
-        "caption":"Patti Jannetta plays with daughter Ashley, 3"
+        "caption":"Patti Jannetta plays with daughter Ashley, 3",
         "year":"1981"
     },{
         "photoUrl": "patti_nails",
-        "caption":"Singer Patti Jannetta; left; gets her nails taken care of."
+        "caption":"Singer Patti Jannetta; left; gets her nails taken care of.",
         "year":"1988"
     }
     ]
