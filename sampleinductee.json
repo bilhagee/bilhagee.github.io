@@ -37,7 +37,22 @@
       }
     ],
     "musicContent": [],
-    "videoContent": []
+    "videoContent": [],  
+    "photoContent":[
+        {
+        "photoUrl": "patti_album",
+        "caption":"Patti Jannetta's first album, self titled Patti Jannetta, in 1981",
+        "year":"1986"
+    },{
+        "photoUrl": "patti_home",
+        "caption":"Patti Jannetta plays with daughter Ashley, 3",
+        "year":"1981"
+    },{
+        "photoUrl": "patti_nails",
+        "caption":"Singer Patti Jannetta; left; gets her nails taken care of.",
+        "year":"1988"
+    }
+    ]
   },
   {
     "id": "5fd7fab60f500c8e56cf00b9",
