@@ -1,13 +1,11 @@
 [
-   {
+	{
     "id": "5fd7f8b80f500c8e56cf00b8",
     "firstName": "Patti",
     "lastName": "Jannetta",
     "occupation": "Musician",
     "yearInducted": "2020",
     "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/profile-photo/patti-jannetta.jpeg",
-    "welcomeVideo":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/videos/welcome_video_patti_janetta.mp4",
-    "facts":["She released her first album, \"Patti Jannetta\", in 1981.","Her father is Louis Jannetta, the longtime maitre d' of Toronto's Imperial Room","Her second album, Breathless, was released in 1988, and garnered radio airplay for the singles \"Party Girl\" and \"Name of the Game\". "],
     "template": 0,
     "textContent": [
       {
@@ -20,8 +18,8 @@
         "id": "608248864e75446fc9865859",
         "itemLabel": 0,
         "contentTitle": "Achievements",
-        "contentDescription": "Achievements",
-        "achievements": [
+        "contentDescription": "This is test content",
+         "achievements": [
             {
                 "year": "2020",
                 "caption":"Patti Jannetta inducted into the Mississauga Music Walk of Fame."
@@ -39,22 +37,19 @@
       }
     ],
     "musicContent": [],
-    "videoContent": [],
-    "photoContent":[
-        {
-        "photoUrl": "patti_album",
-        "caption":"Patti Jannetta's first album, self titled Patti Jannetta, in 1981",
-        "year":"1986"
-    },{
-        "photoUrl": "patti_home",
-        "caption":"Patti Jannetta plays with daughter Ashley, 3",
-        "year":"1981"
-    },{
-        "photoUrl": "patti_nails",
-        "caption":"Singer Patti Jannetta; left; gets her nails taken care of.",
-        "year":"1988"
-    }
-    ]
+    "videoContent": []
+  },
+  {
+    "id": "5fd7fab60f500c8e56cf00b9",
+    "firstName": "Phil X",
+    "lastName": "",
+    "occupation": "Musician",
+    "yearInducted": "2019",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Phil-X/profile-photo/phil-x.jpeg",
+    "template": 0,
+    "textContent": [],
+    "musicContent": [],
+    "videoContent": []
   }
+
 ]
-  
