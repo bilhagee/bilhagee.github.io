@@ -79,19 +79,5 @@
         "year":"1988"
     }
     ]
-  },
-  {
-    "id": "5fd7fab60f500c8e56cf00b9",
-    "firstName": "Phil X",
-    "lastName": "",
-    "occupation": "Musician",
-    "yearInducted": "2019",
-    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Phil-X/profile-photo/phil-x.jpeg",
-    "template": 0,
-    "textContent": [],
-    "musicContent": [],
-    "videoContent": [],
-    "photoContent":[]
   }
-
 ]
