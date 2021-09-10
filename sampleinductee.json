@@ -52,16 +52,16 @@
         {
             "videoTitle":"Party Girl - Patti Jannetta",
             "videoUrl":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/videos/JANNETTA+-+Party+Girl.mp4",
-            "thumbnail":"party_girl_tumbnail"
+            "videoThumbnail":"party_girl_tumbnail"
         },{
             "videoTitle":"Patti and Spencer D",
             "videoUrl":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/videos/Patti+and+Spencer+D+Edited.mp4",
-            "thumbnail":"patti_spencer_thumnail"
+            "videoThumbnail":"patti_spencer_thumnail"
         },
         {
             "videoTitle":"Over the Rainbow - Patti Jannetta",
             "videoUrl":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/videos/Patti_Jannetta_Over_the_Rainbow_with_Credits.mp4",
-            "thumbnail":"over_the_rainbow_thumbnail"
+            "videoThumbnail":"over_the_rainbow_thumbnail"
         }
     ],
     "photoContent":[
