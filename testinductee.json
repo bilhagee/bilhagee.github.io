@@ -23,7 +23,7 @@
         "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Much/thumbnail/George-Strombo-Much.png",
         "displayOrder": 0,
         "contentSectionElements": [
-        "{\"id\":\"61635847707fb4e6abe52e38\",\"elementTitle\":\"Much-Interviews\",\"previewDescription\":\"Interviews from George at Much.\",\"type\":\"video\",\"thumbnailLink\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Much-Interviews/thumbnail/George-Strombo-Much.png\",\"elementList\":[\"{\"id\":\"61635847707fb4e6abe52e39\",\"videoLink\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Much-Interviews/Interview-with-U2/video-files/goerge_strombo_u2.mp4\",\"videoTitle\":\"Interview-with-U2\",\"videoDescription\":\"George interviews U2\"}\"]}"
+        "{\"id\":\"61635847707fb4e6abe52e38\",\"elementTitle\":\"Much-Interviews\",\"previewDescription\":\"Interviews from George at Much.\",\"type\":\"video\",\"thumbnailLink\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Much-Interviews/thumbnail/George-Strombo-Much.png\",\"elementList\":[\"{\"id\":\"61635847707fb4e6abe52e39\",\"videoLink\":\"https:\/\/mmwfbucket.s3.us-east-2.amazonaws.com\/George-Stroumboulopoulos\/Much-Interviews\/Interview-with-U2\/video-files\/goerge_strombo_u2.mp4\",\"videoTitle\":\"Interview-with-U2\",\"videoDescription\":\"George interviews U2\"}\"]}"
          ]
       }
     ]
