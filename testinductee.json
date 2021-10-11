@@ -14,7 +14,16 @@
         "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Biography/thumbnail/strombo.jpg",
         "displayOrder": 0,
         "contentSectionElements": [
-          "{\"id\":\"6161d924005e844c38a75087\",\"elementTitle\":\"Biography\",\"thumbnailLink\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Biography/thumbnail/strombo.jpg\",\"previewDescription\":null,\"type\":\"text\",\"elementList\":[\"George Stroumboulopoulos is a television and radio broadcaster, actor, media producer, and humanitarian. His Apple Music radio show, STROMBO, is heard in over 165 countries worldwide. \\n\\nHe is an award-winning broadcaster who hosted and executive produced the talk shows George Stroumboulopoulos Tonight and The Hour on Canada\\u0027s national broadcaster, the CBC. His past work includes the show, Stroumboulopoulos on CNN and as the anchor on Hockey Night in Canada. George was also the host of Canada\\u0027s premier culture show, The New Music. \"]}"
+          {
+            "id": "6161d924005e844c38a75087",
+            "elementTitle": "Biography",
+            "thumbnailLink": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Biography/thumbnail/strombo.jpg",
+            "previewDescription": null,
+            "type": "text",
+            "elementList": [
+              "George Stroumboulopoulos is a television and radio broadcaster, actor, media producer, and humanitarian. His Apple Music radio show, STROMBO, is heard in over 165 countries worldwide. \n\nHe is an award-winning broadcaster who hosted and executive produced the talk shows George Stroumboulopoulos Tonight and The Hour on Canada's national broadcaster, the CBC. His past work includes the show, Stroumboulopoulos on CNN and as the anchor on Hockey Night in Canada. George was also the host of Canada's premier culture show, The New Music. "
+            ]
+          }
         ]
       },
       {
@@ -23,8 +32,17 @@
         "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Much/thumbnail/George-Strombo-Much.png",
         "displayOrder": 0,
         "contentSectionElements": [
-        "{\"id\":\"61635847707fb4e6abe52e38\",\"elementTitle\":\"Much-Interviews\",\"previewDescription\":\"Interviews from George at Much.\",\"type\":\"video\",\"thumbnailLink\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Much-Interviews/thumbnail/George-Strombo-Much.png\",\"elementList\":[\"{\"id\":\"61635847707fb4e6abe52e39\",\"videoLink\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Much-Interviews/Interview-with-U2/video-files/goerge_strombo_u2.mp4\",\"videoTitle\":\"Interview-with-U2\",\"videoDescription\":\"George interviews U2\"}\"]}"
-         ]
+          {
+            "id": "61635847707fb4e6abe52e38",
+            "elementTitle": "Much-Interviews",
+            "previewDescription": "Interviews from George at Much.",
+            "type": "video",
+            "thumnailLink": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Much-Interviews/thumbnail/George-Strombo-Much.png",
+            "elementList": [
+              "{\"id\":\"61635847707fb4e6abe52e39\",\"videoLink\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/Much-Interviews/Interview-with-U2/video-files/goerge_strombo_u2.mp4\",\"videoTitle\":\"Interview-with-U2\",\"videoDescription\":\"George interviews U2\"}"
+            ]
+          }
+        ]
       }
     ]
   }
