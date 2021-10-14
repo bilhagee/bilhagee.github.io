@@ -51,7 +51,7 @@
             "collectionDescription": "George interviews various celebrities and musicians at HOS",
             "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-1.jpg",
             "contentCollectionList": [
-              "{\"Id\":\"61573a7215722cfe2640f573\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-1.jpg",\"Title\":\"Sample Title\",\"Description\":\"George interviews U2.\"}",
+              "{\"Id\":\"61573a7215722cfe2640f573\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-1.jpg\",\"Title\":\"Sample Title\",\"Description\":\"George interviews U2.\"}",
               "{\"Id\":\"61573a7215722cfe2640f574\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/videos/goerge_strombo_britney_spears.mp4\",\"Title\":\"Interview with Britney Spears\",\"Description\":\"George interviews Britney Spears for Much Music.\"}"
             ]
           },
