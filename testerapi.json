@@ -57,8 +57,8 @@
             "collectionDescription": "Behind the scene photos from House of Strombo. ",
             "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg",
             "contentCollectionList": [
-              "{\\\"Id\\\":\\\"61573a7215722cfe2640f573\\\",\\\"File\\\":\\\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-1.jpg\\\",\\\"Description\\\":\\\"George interviews U2.\\\"}",
-              "{\\\"Id\\\":\\\"61573a7215722cfe2640f574\\\",\\\"File\\\":\\\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg\\\",\\\"Description\\\":\\\"George interviews Britney Spears for Much Music.\\\"}"
+              "{\"Id\":\"61573a7215722cfe2640f573\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-1.jpg\",\"Description\":\"George interviews U2.\"}",
+              "{\"Id\":\"61573a7215722cfe2640f574\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg\",\"Description\":\"George interviews Britney Spears for Much Music.\"}"
             ]
           }
         ]
