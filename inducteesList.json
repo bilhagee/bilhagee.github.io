@@ -1,1 +1,550 @@
-[{"id":"613822f99b311e7dd5a153c9","firstName":"George","lastName":"Stroumboulopoulos","occupation":"Media Personality","yearInducted":"2021","welcomeVideo":"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/videos/george_strombo_welcome_video.mp4","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/profile-photos/George-Stroumboulopoulos.jpg","isPublished":false,"contentSections":[{"id":"61673a6915722cfe2640f571","title":"Biography","thumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg","displayOrder":0,"contentSectionElements":[{"id":"61673a7215722cfe2640f572","contentType":"Text Content","collectionTitle":"Biography","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg","contentCollectionList":["George Stroumboulopoulos is a television and radio broadcaster, actor, media producer, and humanitarian. His Apple Music radio show, STROMBO, is heard in over 165 countries worldwide. \n\nHe is an award-winning broadcaster who hosted and executive produced the talk shows George Stroumboulopoulos Tonight and The Hour on Canada's national broadcaster, the CBC. His past work includes the show, Stroumboulopoulos on CNN and as the anchor on Hockey Night in Canada. George was also the host of Canada's premier culture show, The New Music. "]}]},{"id":"61678477a23b45cd45d0ad35","title":"Much","thumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/george_stroumboulopoulos/much/thumbnail/george-strombo-much.png","displayOrder":1,"contentSectionElements":[{"id":"6167857ea23b45cd45d0ad36","contentType":"Video Content","collectionTitle":"Much Interviews!","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/george_stroumboulopoulos/much/thumbnail/george-strombo-much.png","contentCollectionList":["{\"Id\":\"61673a7215722cfe2640f573\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/videos/goerge_strombo_u2.mp4\",\"Title\":\"Interview with U2\",\"Description\":\"George interviews U2!\"}"]}]},{"id":"616786f9a23b45cd45d0ad37","title":"House of Strombo","thumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg","displayOrder":2,"contentSectionElements":[{"id":"616787a5a23b45cd45d0ad38","contentType":"Photo Content","collectionTitle":"HOS Behind the Scenes","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg","contentCollectionList":["{\"Id\":\"61573a7215722cfe2640f573\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-1.jpg\",\"Description\":\"George interviews U2.\"}","{\"Id\":\"61573a7215722cfe2640f574\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg\",\"Description\":\"George interviews Britney Spears for Much Music.\"}"]}]}]},{"id":"613829df9b311e7dd5a153ca","firstName":"Noel","lastName":"Cadastre","occupation":"Music Engineer","yearInducted":"2021","welcomeVideo":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Noel-Cadastre/videos/noel_cadastre_welcome_video.mp4","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Noel-Cadastre/profile-photos/Noel-Cadastre.png","isPublished":false,"contentSections":[{"id":"617259f2adf3ca74d600c504","title":"Biography","thumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Noel-Cadastre/profile-photos/Noel-Cadastre.png","displayOrder":0,"contentSectionElements":[{"id":"61725a41adf3ca74d600c505","contentType":"Text Content","collectionTitle":"Biography","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Noel-Cadastre/profile-photos/Noel-Cadastre.png","contentCollectionList":["Noel Cadastre is Drake’s exclusive engineer, and is a part of the OVO Team, working alongside Noah 40 Shebib. \n\nA graduate of Mississauga’s Metalworks Audio Production and Engineering Program in 2006, Noel has earned engineering credits on Drake’s albums beginning with Thank Me Later (2010), to the most recent Scary Hours 2 (2021). \nNoel has contributed to multiple Canadian, European and World Tours including Drake’s Club Paradise Tour (2012), Drake’s Would You Like a Tour (2013-2014), and Drake VS Lil Wayne 31 City Summer Tour (2014) among others. As a member of the OVO Team, Noel has also worked with a wide range of talented artists including 2 Chainz, Nicki Minaj, Big Sean, Action Bronson, PartyNextDoor, Lil Wayne, and DJ Khaled to name just a few."]}]}]},{"id":"5fd7f8b80f500c8e56cf00b8","firstName":"Patti","lastName":"Jannetta","occupation":"Musician","yearInducted":"2020","funFacts":["test11"],"welcomeVideo":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/videos/welcome_video_patti_janetta.mp4","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/profile-photo/patti-jannetta.jpeg","isPublished":false},{"id":"5fd7fab60f500c8e56cf00b9","firstName":"Phil","lastName":"X","occupation":"Musician","yearInducted":"2019","welcomeVideo":"","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Phil-X/profile-photo/phil-x.jpeg","isPublished":false},{"id":"5fd7fb060f500c8e56cf00ba","firstName":"Prakash","lastName":"John","occupation":"Musician","yearInducted":"2019","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Prakash-John/Prakash-John.jpeg","isPublished":false},{"id":"607785085e98dfb2d01accfe","firstName":"Jim","lastName":"Tovey","occupation":"Community Leader","yearInducted":"2018","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Jim-Tovey/profile-photo/jim-tovey.jpeg","isPublished":false},{"id":"607785325e98dfb2d01accff","firstName":"Randy","lastName":"Lennox","occupation":"Music Executive","yearInducted":"2017","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Randy-Lennox/profile-photo/randy-lennox.jpeg","isPublished":false},{"id":"607785835e98dfb2d01acd03","firstName":"Alex","lastName":"Pangman","occupation":"Musician","yearInducted":"2017","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Alex-Pangman/profile-photo/alex-pangman.jpeg","isPublished":false},{"id":"607785995e98dfb2d01acd04","firstName":"Liberty","lastName":"Silver","occupation":"Musician","yearInducted":"2017","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Liberty-Silver/profile-photo/liberty-silver.jpeg","isPublished":false},{"id":"607785aa5e98dfb2d01acd05","firstName":"Fito","lastName":"Blanko","occupation":"Musician","yearInducted":"2017","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Fito-Blanko/profile-photo/fito-blanko.jpeg","isPublished":false},{"id":"607785c25e98dfb2d01acd06","firstName":"Jeff","lastName":"Healey","occupation":"Musician","yearInducted":"2016","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Jeff-Healey/profile-photos/Jeff-Healey.jpeg","isPublished":false},{"id":"607785d55e98dfb2d01acd07","firstName":"Bobby Dean","lastName":"Blackburn","occupation":"Musician","yearInducted":"2016","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Bobby-Dean-Blackburn/profile-photos/Bobby-Dean-Blackburn.jpeg","isPublished":false},{"id":"607785f45e98dfb2d01acd08","firstName":"Cliff","lastName":"Hunt","occupation":"Industry Veteran","yearInducted":"2016","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Cliff-Hunt/profile-photos/Cliff-Hunt.jpeg","isPublished":false},{"id":"6077862d5e98dfb2d01acd09","firstName":"Steve","lastName":"DeMarchi","occupation":"Musician","yearInducted":"2016","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Steve-DeMarchi/profile-photos/Steve-DeMarchi.jpeg","isPublished":false},{"id":"607786645e98dfb2d01acd0a","firstName":"Neill","lastName":"Dixon","occupation":"Music Management","yearInducted":"2015","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Neill-Dixon/profile-photos/neill-dixon.jpeg","isPublished":false},{"id":"607786935e98dfb2d01acd0b","firstName":"Rob","lastName":"Wells","occupation":"Producer","yearInducted":"2015","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Rob+Wells/profile-photos/rob-wells.jpeg","isPublished":false},{"id":"607786a75e98dfb2d01acd0c","firstName":"Denny","lastName":"Doherty","occupation":"Musician","yearInducted":"2015","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Denny-Doherty/profile-photos/denny-doherty.jpeg","isPublished":false},{"id":"607786cd5e98dfb2d01acd0d","firstName":"John","lastName":"Bride","occupation":"Musician","yearInducted":"2015","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/John-Bride/profile-photos/john-bride.jpeg","isPublished":false},{"id":"607786e45e98dfb2d01acd0e","firstName":"Tommy","lastName":"Hunter","occupation":"Musician","yearInducted":"2014","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Tommy-Hunter/profile-photos/Tommy-Hunter.jpeg","isPublished":false},{"id":"607786fe5e98dfb2d01acd0f","firstName":"Joey","lastName":"Cee","occupation":"Music Publisher","yearInducted":"2014","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Joey-Cee/profile-photos/Joey-Cee.jpeg","isPublished":false},{"id":"6077871a5e98dfb2d01acd10","firstName":"Ron","lastName":"Harrison","occupation":"Musician","yearInducted":"2014","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Ron-Harrison/profile-photos/Ron-Harrison.jpeg","isPublished":false},{"id":"607787355e98dfb2d01acd11","firstName":"Billy","lastName":"Talent","occupation":"Band","yearInducted":"2014","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Billy-Talent/profile-photos/Billy-Talent.jpeg","isPublished":false},{"id":"607787545e98dfb2d01acd12","firstName":"Rik","lastName":"Emmett","occupation":"Musician","yearInducted":"2013","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Rik-Emmett/profile-photos/Rik-Emmett.jpeg","isPublished":false},{"id":"607787705e98dfb2d01acd13","firstName":"Charlie","lastName":"Camilleri","occupation":"Musician","yearInducted":"2013","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Charlie-Camilleri/profile-photos/Charlie-Camilleri.jpeg","isPublished":false},{"id":"6077878f5e98dfb2d01acd14","firstName":"Nancy","lastName":"Walker","occupation":"Musician","yearInducted":"2013","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Nancy-Walker/profile-photos/Nancy-Walker.jpeg","isPublished":false},{"id":"607787a15e98dfb2d01acd15","firstName":"Chuck","lastName":"Jackson","occupation":"Musician","yearInducted":"2013","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Chuck-Jackson/profile-photos/Chuck-Jackson.jpeg","isPublished":false},{"id":"607788035e98dfb2d01acd16","firstName":"Eleanor","lastName":"Calbes","occupation":"Musician","yearInducted":"2013","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Eleanor-Calbes/profile-photos/Eleanor-Calbes.jpeg","isPublished":false},{"id":"607788195e98dfb2d01acd17","firstName":"Ronnie","lastName":"Hawkins","occupation":"Musician","yearInducted":"2012","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Ronnie-Hawkins/profile-photos/Ronnie-Hawkins.jpeg","isPublished":false},{"id":"607788305e98dfb2d01acd18","firstName":"Oscar","lastName":"Peterson","occupation":"Musician","yearInducted":"2012","funFacts":["At the age of 9, Oscar played the piano with a degree of control that impressed professionals.","The Royal Conservatory of Music honours Oscar Peterson by renaming its community school after him.","A dedicated performer, Peterson continued to perform live even after a stroke in 1993 limited use of his left hand. "],"welcomeVideo":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/videos/oscar_peterson_welcome_video.mp4","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/profile-photos/oscar-peterson-profile-photo.jpg","isPublished":false,"arModel":{"arModelLink":"https://ar-experiences.s3.amazonaws.com/oscar_peterson.usdz","arAudioCompanionLink":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/audio/oscar-peterson-trio-you-look-good.mp3","arModeEnabled":true},"contentSections":[{"id":"61725b15adf3ca74d600c506","title":"Biography","thumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/profile-photos/Oscar-Peterson.jpeg","displayOrder":0,"contentSectionElements":[{"id":"61725b70adf3ca74d600c507","contentType":"Text Content","collectionTitle":"Biography","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/profile-photos/Oscar-Peterson.jpeg","contentCollectionList":["Oscar Peterson’s sound may be the most recognizable thing in jazz.\nIn fact, it may be the most recognizable thing in music. Millions of jazz fans can tell from just a few notes that they are listening to Oscar play piano — his sense of time, his phrasing, his command and his vitality — they all signify that you are listening to “the Maharaja of the piano” as Duke Ellington famously called him.\n\nPeterson was born in Montreal, was unveiled to the world by his great friend and producer Norman Granz at Carnegie Hall in September 1949 and was embraced by the international jazz community in a career that spanned six decades — and spawned a legacy that is unmatched by any other Canadian jazz player and few other musicians anywhere in the world.\n\nHis fellow performers revered Peterson for his impossibly high standards, his relentless drive to be the best and his versatility — which saw him front his brilliant trios, act as the house pianist for Verve Records for a decade and then turn around and become the sensitive accompanist to the best-of-the-best of the jazz singing world, from Billie Holiday to the superb duets of Ella Fitzgerald and Louis Armstrong.\n\nWhen Oscar Peterson sat down at the piano stool, there was never any doubt that something extraordinary was about to happen. He’d flash that big smile, then unleash that big arsenal of sound to which, he alone, seemed to have exclusive domain.\n\nFellow pianist Marian McPartland may have put it best when she said: “He creates a different kind of emotion, a heady excitement, because of his overwhelming capacity to dazzle and generate exhilaration. At times, it’s almost as if he’s driven by a force greater than himself that makes him play at an impossible speed, but when he changes pace and performs a reflective piece, one can hear the tender side of Oscar, the voicings he uses that are his alone.”\n\nPeterson was a proud Canadian. His Canadiana Suite is an homage to his homeland that is as breathtaking in its scope as are the variations in landscape from Newfoundland to British Columbia that inspired its creation.\n\nHe was also a proud Mississaugan who lived here for some 35 years. Although he won 8 Grammies, the UNESCO International Music Prize, the Governor General’s lifetime achievement award for performing arts, the Jazz at Lincoln Centre award for artistic excellence and the equivalent of the Nobel prize for the arts, the prestigious Praemium Imperiale award, he said that two of the greatest honours in his career were the City’s 2003 tribute day for him, which included an all-star concert at LAC, and the naming of Oscar Peterson Public School in his honour.\n\nPeterson was a mentor and an inspiration to pianists everywhere, from Diana Krall, to Hiromi, the Japanese fusion phenom. The first words she learned to say in English were “Oscar Peterson.”\n\nShe told me in an interview before her 2004 tribute concert at LAC that one of her greatest honours was meeting Peterson at his home when she was in her early 20s.\n\n“It was an amazing experience. I could touch his piano. I could play his Boesendorfer. I was seeing my super-hero right in front of me. I was crazy- happy, listening to all of the stories about Frank Sinatra and all the other jazz legends he’s been playing with.\n\n“It was like a dream house to me, with all of the posters of old concerts on the walls. It was like a museum to me.”\n\nShe continued by saying “When I got back home I went to the park and they took a picture of me jumping as high in the air as I could. I love jumping. I sent it to Oscar and said this is how I feel to meet you.” That’s how it was for everyone to meet Oscar and to hear his marvellous music.\n\nHe made us all leap for joy at his genius."]}]},{"id":"6172d1f6adf3ca74d600c508","title":"Performance","thumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/photos/Oscar-Peterson-2.jpg","displayOrder":1,"contentSectionElements":[{"id":"6172d29badf3ca74d600c509","contentType":"Video Content","collectionTitle":"1974 Concert","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/photos/oscar-blues-thumb.png","contentCollectionList":["{\"Id\":\"6172d374adf3ca74d600c50a\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/videos/oscar_peterson_boogie_blues_study.mp4\",\"Title\":\"Boogie Blues Study\",\"Description\":\"Oscar Peterson talks about synths, midi, and computers. This archive showcases that although Peterson was a master behind a piano, he still had the creative drive to learn new technology and push the boundaries of his craft.\"}"]},{"id":"6175c4a0a9ec3ca32a9f70ed","contentType":"Video Content","collectionTitle":"1964 Denmark","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/photos/oscar-hymm-thumb.png","contentCollectionList":["{\"Id\":\"6175c5baa9ec3ca32a9f70ee\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/videos/oscar_peterson_hymn_to_freedom.mp4\",\"Title\":\"Hymn to Freedom\",\"Description\":\"Oscar Peterson performs his song, Hymn to Freedom, live in Denmark in 1964.\"}"]},{"id":"6175c91860e5ff62f5a6f589","contentType":"Photo Content","collectionTitle":"Performance Over the Years","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/photos/oscar-perform.jpeg","contentCollectionList":["{\"Id\":\"6175c9f560e5ff62f5a6f58b\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/photos/oscar-dc.jpeg\",\"Description\":\"Oscar Peterson performing, photo taken by D.C. Langford, 1944.\"}","{\"Id\":\"6175cccd60e5ff62f5a6f58c\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/photos/oscar-father.png\",\"Description\":\"Oscar Peterson playing with his father Daniel, 1944.\"}"]},{"id":"618b166cdd86a254dc908a67","contentType":"Audio Content","collectionTitle":"Performance Recordings","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/photos/oscar-1991.png","contentCollectionList":["{\"Id\":\"6175c9f560e5ff62f5a6f58b\",\"Title\":\"Greatest Piano Solo Ever\",\"Description\":\"Oscar Peterson Piano Solo.\",\"CoverPhoto\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/photos/oscar-1980.png\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/audio/Greatest+piano+solo+ever.mp3\"}","{\"Id\":\"618bcbbfbd267af874522f21\",\"Title\":\"Slow Blues\",\"Description\":\"Oscar Peterson and CountBaise - Slow Blues\",\"CoverPhoto\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/photos/oscar-1974.png\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar-Peterson/audio/Oscar+Peterson+%26+Count+Basie+-+Slow+Blues.mp3\"}"]}]},{"id":"6175d001007b3bacc52a0f6c","title":"Personal Photos of Oscar","thumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar_peterson/personal_photos_of_oscar/thumbnail/oscarpeterson.png","displayOrder":2,"contentSectionElements":[{"id":"6175d027007b3bacc52a0f6d","contentType":"Photo Content","collectionTitle":"Photos of Oscar","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar_Peterson/Photos_of_Oscar/thumbnail/OscarPeterson2.png","contentCollectionList":["{\"Id\":\"6175ddbe154c610f436a8726\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar_Peterson/Photos_of_Oscar/photo_files/OscarPeterson2.png\",\"Description\":\"Photo of Oscar sitting outside.\"}"]}]}]},{"id":"607788475e98dfb2d01acd19","firstName":"Krisztina","lastName":"Szabo","occupation":"Musician","yearInducted":"2012","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Krisztina-Szabo/profile-photos/Krisztina-Szabo.jpeg","isPublished":false},{"id":"6077885b5e98dfb2d01acd1a","firstName":"Gil","lastName":"Moore","occupation":"Musician","yearInducted":"2012","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Gil-Moore/profile-photos/Gil-Moore.jpeg","isPublished":false},{"id":"61a54c62050dea1e34e819b0","firstName":"Oscar ","lastName":"Peterson","occupation":"Musician","yearInducted":"2012","funFacts":["At the age of\u00A09, Oscar played the piano with a degree of control that impressed professionals.","\u00A0Oscar\u00A0played\u00A0the\u00A0piano with a degree of control that impressed professionals.","The Royal Conservatory of Music\u00A0honours\u00A0Oscar Peterson by renaming its community school after\u00A0him.\u00A0","A dedicated performer  Peterson continued to perform live even after a stroke in 1993 limited use of his left hand."],"welcomeVideo":"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/welcome_video/oscar_peterson_welcome_video.mp4","inducteePhoto":"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/profile_photo/oscar-peterson-profile-photo.jpg","isPublished":false,"arModel":{"arModelLink":"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/ar_files/oscar_peterson.usdz","arAudioCompanionLink":"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/ar_files/oscar-peterson-trio-you-look-good.mp3","arModeEnabled":true},"contentSections":[{"id":"61a54f2b38442dbbbb9c6cac","title":"Biography","thumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/biography/thumbnail/oscar_bio.jpg","displayOrder":0,"contentSectionElements":[{"id":"61a54f5238442dbbbb9c6cae","contentType":"Text Content","collectionTitle":"Biography","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar_Peterson/Biography/thumbnail/oscar_bio.jpg","contentCollectionList":["Oscar Peterson’s sound may be the most recognizable thing in jazz.\nIn fact, it may be the most recognizable thing in music. Millions of jazz fans can tell from just a few notes that they are listening to Oscar play piano — his sense of time, his phrasing, his command and his vitality — they all signify that you are listening to “the Maharaja of the piano” as Duke Ellington famously called him.\n\nPeterson was born in Montreal, was unveiled to the world by his great friend and producer Norman Granz at Carnegie Hall in September 1949 and was embraced by the international jazz community in a career that spanned six decades — and spawned a legacy that is unmatched by any other Canadian jazz player and few other musicians anywhere in the world.\n\nHis fellow performers revered Peterson for his impossibly high standards, his relentless drive to be the best and his versatility — which saw him front his brilliant trios, act as the house pianist for Verve Records for a decade and then turn around and become the sensitive accompanist to the best-of-the-best of the jazz singing world, from Billie Holiday to the superb duets of Ella Fitzgerald and Louis Armstrong.\n\nWhen Oscar Peterson sat down at the piano stool, there was never any doubt that something extraordinary was about to happen. He’d flash that big smile, then unleash that big arsenal of sound to which, he alone, seemed to have exclusive domain.\n\nFellow pianist Marian McPartland may have put it best when she said: “He creates a different kind of emotion, a heady excitement, because of his overwhelming capacity to dazzle and generate exhilaration. At times, it’s almost as if he’s driven by a force greater than himself that makes him play at an impossible speed, but when he changes pace and performs a reflective piece, one can hear the tender side of Oscar, the voicings he uses that are his alone.”\n\nPeterson was a proud Canadian. His Canadiana Suite is an homage to his homeland that is as breathtaking in its scope as are the variations in landscape from Newfoundland to British Columbia that inspired its creation.\n\nHe was also a proud Mississaugan who lived here for some 35 years. Although he won 8 Grammies, the UNESCO International Music Prize, the Governor General’s lifetime achievement award for performing arts, the Jazz at Lincoln Centre award for artistic excellence and the equivalent of the Nobel prize for the arts, the prestigious Praemium Imperiale award, he said that two of the greatest honours in his career were the City’s 2003 tribute day for him, which included an all-star concert at LAC, and the naming of Oscar Peterson Public School in his honour.\n\nPeterson was a mentor and an inspiration to pianists everywhere, from Diana Krall, to Hiromi, the Japanese fusion phenom. The first words she learned to say in English were “Oscar Peterson.”\n\nShe told me in an interview before her 2004 tribute concert at LAC that one of her greatest honours was meeting Peterson at his home when she was in her early 20s.\n\n“It was an amazing experience. I could touch his piano. I could play his Boesendorfer. I was seeing my super-hero right in front of me. I was crazy- happy, listening to all of the stories about Frank Sinatra and all the other jazz legends he’s been playing with.\n\n“It was like a dream house to me, with all of the posters of old concerts on the walls. It was like a museum to me.”\n\nShe continued by saying “When I got back home I went to the park and they took a picture of me jumping as high in the air as I could. I love jumping. I sent it to Oscar and said this is how I feel to meet you.” That’s how it was for everyone to meet Oscar and to hear his marvellous music.\n\nHe made us all leap for joy at his genius."]}]},{"id":"61a5b9b377110b66ab6e4904","title":"Performances","thumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/performances/thumbnail/oscar-perform.jpeg","displayOrder":1,"contentSectionElements":[{"id":"61a5ba0b77110b66ab6e4905","contentType":"Video Content","collectionTitle":"Hymn to Freedom","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/hymn_to_freedom/thumbnail/the-oscar-peterson-trio-hymn-to-freedom-76015.jpg","contentCollectionList":["{\"Id\":\"61a5ba0b77110b66ab6e4906\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/hymn_to_freedom/live_in_denmark/video_files/oscar_peterson_hymn_to_freedom.mp4\",\"Title\":\"Live in Denmark\",\"Description\":\"Oscar Peterson performs his song, Hymn to Freedom, Petersons ode to the Civil Rights Movement.  \"}"]},{"id":"61a5baab77110b66ab6e4907","contentType":"Audio Content","collectionTitle":"Live Music","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/thumbnail/oscar-peterson-2.jpg","contentCollectionList":["{\"Id\":\"61a5baab77110b66ab6e4908\",\"Title\":\"C Jam Blues\\u00A0\",\"Description\":\"Oscar Peterson performance live in Denmark with Ray Brown and Ed Thigpen.  \",\"CoverPhoto\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/cjamblues.jpg\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar_peterson/live_music/c_jam_blues/audio_files/oscar-c-jam-blues.mp3\"}","{\"Id\":\"61a5baab77110b66ab6e4909\",\"Title\":\"You Look Good To Me Live\\u00A0\",\"Description\":\"Introduction to Oscar Peterson’s Trio album, We Get Requests in the Netherlands in 1965.\",\"CoverPhoto\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/Wegetrequests.jpg\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/you_look_good_to_me_live/audio_files/oscar-peterson-trio-you-look-good.mp3\"}"]}]},{"id":"61a5bb0a77110b66ab6e4909","title":"Early Life","thumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_life/thumbnail/oscar-dc.jpeg","displayOrder":2,"contentSectionElements":[{"id":"61a5bb3277110b66ab6e490a","contentType":"Photo Content","collectionTitle":"Family","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar_Peterson/Family/thumbnail/oscar-father.png","contentCollectionList":["{\"Id\":\"61a5bb3277110b66ab6e490b\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar_Peterson/Family/photo_files/oscar-father.png\",\"Description\":\"Oscar Peterson and his father, Daniel, at the piano, 1944.\"}","{\"Id\":\"61a5bb3277110b66ab6e490c\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/family/e011073127-v8.jpg\",\"Description\":\"Oscar Peterson on piano, with his brother, Chuck, accompanying him on trumpet, 1944. \"}","{\"Id\":\"61a5bb3277110b66ab6e490d\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/family/e011073128-v8.jpg\",\"Description\":\"Oscar Peterson with his sister, Daisy, at the piano, 1944\"}","{\"Id\":\"61a5bb3277110b66ab6e490e\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/family/oscar-dc.jpeg\",\"Description\":\"Oscar Peterson, photographed by D.C. Langford, 1944.\"}"]},{"id":"61a5bb7a77110b66ab6e490e","contentType":"Photo Content","collectionTitle":"Early Career","collectionThumbnail":"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar_peterson/early_life/image_jpg_0.img.jpg","contentCollectionList":["{\"Id\":\"61a5bb7a77110b66ab6e490f\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar_peterson/early_life/image_jpg_0.img.jpg\",\"Description\":\"Oscar with Russ Dufort and Armand Samson, on stage with the Johnny Holmes Orchestra at Victoria Hall in 1946.\"}","{\"Id\":\"61a5bb7a77110b66ab6e4911\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_career/oscar-peterson-early-life.png\",\"Description\":\"Young Oscar blossoms with the Johnny Holmes Orchestra. \"}","{\"Id\":\"61a5bb7a77110b66ab6e4912\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_career/P016-02-14_141.jpg\",\"Description\":\"Johnny Holmes and Oscar Peterson rehearsing at the Holmes apartment\"}","{\"Id\":\"61a5bb7a77110b66ab6e4913\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_career/j-Jazz-Peterson3.5.jpg\",\"Description\":\"Johnny Holmes and Oscar Peterson during one of their regular meetings at Holmes' apartment, 1944.\"}"]}]}]}]
+[
+  {
+    "id": "613822f99b311e7dd5a153c9",
+    "firstName": "George",
+    "lastName": "Stroumboulopoulos",
+    "occupation": "Media Personality",
+    "yearInducted": "2021",
+    "welcomeVideo": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/videos/george_strombo_welcome_video.mp4",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/profile-photos/George-Stroumboulopoulos.jpg",
+    "isPublished": false,
+    "contentSections": [
+      {
+        "id": "61673a6915722cfe2640f571",
+        "title": "Biography",
+        "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg",
+        "displayOrder": 0,
+        "contentSectionElements": [
+          {
+            "id": "61673a7215722cfe2640f572",
+            "contentType": "Text Content",
+            "collectionTitle": "Biography",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg",
+            "contentCollectionList": [
+              "George Stroumboulopoulos is a television and radio broadcaster, actor, media producer, and humanitarian. His Apple Music radio show, STROMBO, is heard in over 165 countries worldwide. \n\nHe is an award-winning broadcaster who hosted and executive produced the talk shows George Stroumboulopoulos Tonight and The Hour on Canada's national broadcaster, the CBC. His past work includes the show, Stroumboulopoulos on CNN and as the anchor on Hockey Night in Canada. George was also the host of Canada's premier culture show, The New Music. "
+            ]
+          }
+        ]
+      },
+      {
+        "id": "61678477a23b45cd45d0ad35",
+        "title": "Much",
+        "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/george_stroumboulopoulos/much/thumbnail/george-strombo-much.png",
+        "displayOrder": 1,
+        "contentSectionElements": [
+          {
+            "id": "6167857ea23b45cd45d0ad36",
+            "contentType": "Video Content",
+            "collectionTitle": "Much Interviews!",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/george_stroumboulopoulos/much/thumbnail/george-strombo-much.png",
+            "contentCollectionList": [
+              "{\"Id\":\"61673a7215722cfe2640f573\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/videos/goerge_strombo_u2.mp4\",\"Title\":\"Interview with U2\",\"Description\":\"George interviews U2!\"}"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "616786f9a23b45cd45d0ad37",
+        "title": "House of Strombo",
+        "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg",
+        "displayOrder": 2,
+        "contentSectionElements": [
+          {
+            "id": "616787a5a23b45cd45d0ad38",
+            "contentType": "Photo Content",
+            "collectionTitle": "HOS Behind the Scenes",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg",
+            "contentCollectionList": [
+              "{\"Id\":\"61573a7215722cfe2640f573\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-1.jpg\",\"Description\":\"George interviews U2.\"}",
+              "{\"Id\":\"61573a7215722cfe2640f574\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/George-Stroumboulopoulos/photos/George-Stroumboulopoulos-2.jpeg\",\"Description\":\"George interviews Britney Spears for Much Music.\"}"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "613829df9b311e7dd5a153ca",
+    "firstName": "Noel",
+    "lastName": "Cadastre",
+    "occupation": "Music Engineer",
+    "yearInducted": "2021",
+    "welcomeVideo": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Noel-Cadastre/videos/noel_cadastre_welcome_video.mp4",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Noel-Cadastre/profile-photos/Noel-Cadastre.png",
+    "isPublished": false,
+    "contentSections": [
+      {
+        "id": "617259f2adf3ca74d600c504",
+        "title": "Biography",
+        "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Noel-Cadastre/profile-photos/Noel-Cadastre.png",
+        "displayOrder": 0,
+        "contentSectionElements": [
+          {
+            "id": "61725a41adf3ca74d600c505",
+            "contentType": "Text Content",
+            "collectionTitle": "Biography",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Noel-Cadastre/profile-photos/Noel-Cadastre.png",
+            "contentCollectionList": [
+              "Noel Cadastre is Drake’s exclusive engineer, and is a part of the OVO Team, working alongside Noah 40 Shebib. \n\nA graduate of Mississauga’s Metalworks Audio Production and Engineering Program in 2006, Noel has earned engineering credits on Drake’s albums beginning with Thank Me Later (2010), to the most recent Scary Hours 2 (2021). \nNoel has contributed to multiple Canadian, European and World Tours including Drake’s Club Paradise Tour (2012), Drake’s Would You Like a Tour (2013-2014), and Drake VS Lil Wayne 31 City Summer Tour (2014) among others. As a member of the OVO Team, Noel has also worked with a wide range of talented artists including 2 Chainz, Nicki Minaj, Big Sean, Action Bronson, PartyNextDoor, Lil Wayne, and DJ Khaled to name just a few."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5fd7f8b80f500c8e56cf00b8",
+    "firstName": "Patti",
+    "lastName": "Jannetta",
+    "occupation": "Musician",
+    "yearInducted": "2020",
+    "funFacts": [
+      "test11"
+    ],
+    "welcomeVideo": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/videos/welcome_video_patti_janetta.mp4",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Patti-Jannetta/profile-photo/patti-jannetta.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "5fd7fab60f500c8e56cf00b9",
+    "firstName": "Phil",
+    "lastName": "X",
+    "occupation": "Musician",
+    "yearInducted": "2019",
+    "welcomeVideo": "",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Phil-X/profile-photo/phil-x.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "5fd7fb060f500c8e56cf00ba",
+    "firstName": "Prakash",
+    "lastName": "John",
+    "occupation": "Musician",
+    "yearInducted": "2019",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Prakash-John/Prakash-John.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607785085e98dfb2d01accfe",
+    "firstName": "Jim",
+    "lastName": "Tovey",
+    "occupation": "Community Leader",
+    "yearInducted": "2018",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Jim-Tovey/profile-photo/jim-tovey.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607785325e98dfb2d01accff",
+    "firstName": "Randy",
+    "lastName": "Lennox",
+    "occupation": "Music Executive",
+    "yearInducted": "2017",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Randy-Lennox/profile-photo/randy-lennox.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607785835e98dfb2d01acd03",
+    "firstName": "Alex",
+    "lastName": "Pangman",
+    "occupation": "Musician",
+    "yearInducted": "2017",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Alex-Pangman/profile-photo/alex-pangman.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607785995e98dfb2d01acd04",
+    "firstName": "Liberty",
+    "lastName": "Silver",
+    "occupation": "Musician",
+    "yearInducted": "2017",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Liberty-Silver/profile-photo/liberty-silver.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607785aa5e98dfb2d01acd05",
+    "firstName": "Fito",
+    "lastName": "Blanko",
+    "occupation": "Musician",
+    "yearInducted": "2017",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Fito-Blanko/profile-photo/fito-blanko.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607785c25e98dfb2d01acd06",
+    "firstName": "Jeff",
+    "lastName": "Healey",
+    "occupation": "Musician",
+    "yearInducted": "2016",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Jeff-Healey/profile-photos/Jeff-Healey.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607785d55e98dfb2d01acd07",
+    "firstName": "Bobby Dean",
+    "lastName": "Blackburn",
+    "occupation": "Musician",
+    "yearInducted": "2016",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Bobby-Dean-Blackburn/profile-photos/Bobby-Dean-Blackburn.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607785f45e98dfb2d01acd08",
+    "firstName": "Cliff",
+    "lastName": "Hunt",
+    "occupation": "Industry Veteran",
+    "yearInducted": "2016",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Cliff-Hunt/profile-photos/Cliff-Hunt.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "6077862d5e98dfb2d01acd09",
+    "firstName": "Steve",
+    "lastName": "DeMarchi",
+    "occupation": "Musician",
+    "yearInducted": "2016",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Steve-DeMarchi/profile-photos/Steve-DeMarchi.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607786645e98dfb2d01acd0a",
+    "firstName": "Neill",
+    "lastName": "Dixon",
+    "occupation": "Music Management",
+    "yearInducted": "2015",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Neill-Dixon/profile-photos/neill-dixon.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607786935e98dfb2d01acd0b",
+    "firstName": "Rob",
+    "lastName": "Wells",
+    "occupation": "Producer",
+    "yearInducted": "2015",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Rob+Wells/profile-photos/rob-wells.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607786a75e98dfb2d01acd0c",
+    "firstName": "Denny",
+    "lastName": "Doherty",
+    "occupation": "Musician",
+    "yearInducted": "2015",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Denny-Doherty/profile-photos/denny-doherty.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607786cd5e98dfb2d01acd0d",
+    "firstName": "John",
+    "lastName": "Bride",
+    "occupation": "Musician",
+    "yearInducted": "2015",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/John-Bride/profile-photos/john-bride.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607786e45e98dfb2d01acd0e",
+    "firstName": "Tommy",
+    "lastName": "Hunter",
+    "occupation": "Musician",
+    "yearInducted": "2014",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Tommy-Hunter/profile-photos/Tommy-Hunter.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607786fe5e98dfb2d01acd0f",
+    "firstName": "Joey",
+    "lastName": "Cee",
+    "occupation": "Music Publisher",
+    "yearInducted": "2014",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Joey-Cee/profile-photos/Joey-Cee.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "6077871a5e98dfb2d01acd10",
+    "firstName": "Ron",
+    "lastName": "Harrison",
+    "occupation": "Musician",
+    "yearInducted": "2014",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Ron-Harrison/profile-photos/Ron-Harrison.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607787355e98dfb2d01acd11",
+    "firstName": "Billy",
+    "lastName": "Talent",
+    "occupation": "Band",
+    "yearInducted": "2014",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Billy-Talent/profile-photos/Billy-Talent.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607787545e98dfb2d01acd12",
+    "firstName": "Rik",
+    "lastName": "Emmett",
+    "occupation": "Musician",
+    "yearInducted": "2013",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Rik-Emmett/profile-photos/Rik-Emmett.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607787705e98dfb2d01acd13",
+    "firstName": "Charlie",
+    "lastName": "Camilleri",
+    "occupation": "Musician",
+    "yearInducted": "2013",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Charlie-Camilleri/profile-photos/Charlie-Camilleri.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "6077878f5e98dfb2d01acd14",
+    "firstName": "Nancy",
+    "lastName": "Walker",
+    "occupation": "Musician",
+    "yearInducted": "2013",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Nancy-Walker/profile-photos/Nancy-Walker.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607787a15e98dfb2d01acd15",
+    "firstName": "Chuck",
+    "lastName": "Jackson",
+    "occupation": "Musician",
+    "yearInducted": "2013",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Chuck-Jackson/profile-photos/Chuck-Jackson.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607788035e98dfb2d01acd16",
+    "firstName": "Eleanor",
+    "lastName": "Calbes",
+    "occupation": "Musician",
+    "yearInducted": "2013",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Eleanor-Calbes/profile-photos/Eleanor-Calbes.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607788195e98dfb2d01acd17",
+    "firstName": "Ronnie",
+    "lastName": "Hawkins",
+    "occupation": "Musician",
+    "yearInducted": "2012",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Ronnie-Hawkins/profile-photos/Ronnie-Hawkins.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "607788305e98dfb2d01acd18",
+    "firstName": "Oscar ",
+    "lastName": "Peterson",
+    "occupation": "Musician",
+    "yearInducted": "2012",
+    "funFacts": [
+      "At the age of 9, Oscar played the piano with a degree of control that impressed professionals.",
+      " Oscar played the piano with a degree of control that impressed professionals.",
+      "The Royal Conservatory of Music honours Oscar Peterson by renaming its community school after him.",
+      "A dedicated performer  Peterson continued to perform live even after a stroke in 1993 limited use of his left hand."
+    ],
+    "welcomeVideo": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/welcome_video/oscar_peterson_welcome_video.mp4",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/profile_photo/oscar-peterson-profile-photo.jpg",
+    "isPublished": false,
+    "arModel": {
+      "arModelLink": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/ar_files/oscar_peterson.usdz",
+      "arAudioCompanionLink": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/ar_files/oscar-peterson-trio-you-look-good.mp3",
+      "arModeEnabled": true
+    },
+    "contentSections": [
+      {
+        "id": "61a54f2b38442dbbbb9c6cac",
+        "title": "Biography",
+        "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/biography/thumbnail/oscar_bio.jpg",
+        "displayOrder": 0,
+        "contentSectionElements": [
+          {
+            "id": "61a54f5238442dbbbb9c6cae",
+            "contentType": "Text Content",
+            "collectionTitle": "Biography",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar_Peterson/Biography/thumbnail/oscar_bio.jpg",
+            "contentCollectionList": [
+              "Oscar Peterson’s sound may be the most recognizable thing in jazz.\nIn fact, it may be the most recognizable thing in music. Millions of jazz fans can tell from just a few notes that they are listening to Oscar play piano — his sense of time, his phrasing, his command and his vitality — they all signify that you are listening to “the Maharaja of the piano” as Duke Ellington famously called him.\n\nPeterson was born in Montreal, was unveiled to the world by his great friend and producer Norman Granz at Carnegie Hall in September 1949 and was embraced by the international jazz community in a career that spanned six decades — and spawned a legacy that is unmatched by any other Canadian jazz player and few other musicians anywhere in the world.\n\nHis fellow performers revered Peterson for his impossibly high standards, his relentless drive to be the best and his versatility — which saw him front his brilliant trios, act as the house pianist for Verve Records for a decade and then turn around and become the sensitive accompanist to the best-of-the-best of the jazz singing world, from Billie Holiday to the superb duets of Ella Fitzgerald and Louis Armstrong.\n\nWhen Oscar Peterson sat down at the piano stool, there was never any doubt that something extraordinary was about to happen. He’d flash that big smile, then unleash that big arsenal of sound to which, he alone, seemed to have exclusive domain.\n\nFellow pianist Marian McPartland may have put it best when she said: “He creates a different kind of emotion, a heady excitement, because of his overwhelming capacity to dazzle and generate exhilaration. At times, it’s almost as if he’s driven by a force greater than himself that makes him play at an impossible speed, but when he changes pace and performs a reflective piece, one can hear the tender side of Oscar, the voicings he uses that are his alone.”\n\nPeterson was a proud Canadian. His Canadiana Suite is an homage to his homeland that is as breathtaking in its scope as are the variations in landscape from Newfoundland to British Columbia that inspired its creation.\n\nHe was also a proud Mississaugan who lived here for some 35 years. Although he won 8 Grammies, the UNESCO International Music Prize, the Governor General’s lifetime achievement award for performing arts, the Jazz at Lincoln Centre award for artistic excellence and the equivalent of the Nobel prize for the arts, the prestigious Praemium Imperiale award, he said that two of the greatest honours in his career were the City’s 2003 tribute day for him, which included an all-star concert at LAC, and the naming of Oscar Peterson Public School in his honour.\n\nPeterson was a mentor and an inspiration to pianists everywhere, from Diana Krall, to Hiromi, the Japanese fusion phenom. The first words she learned to say in English were “Oscar Peterson.”\n\nShe told me in an interview before her 2004 tribute concert at LAC that one of her greatest honours was meeting Peterson at his home when she was in her early 20s.\n\n“It was an amazing experience. I could touch his piano. I could play his Boesendorfer. I was seeing my super-hero right in front of me. I was crazy- happy, listening to all of the stories about Frank Sinatra and all the other jazz legends he’s been playing with.\n\n“It was like a dream house to me, with all of the posters of old concerts on the walls. It was like a museum to me.”\n\nShe continued by saying “When I got back home I went to the park and they took a picture of me jumping as high in the air as I could. I love jumping. I sent it to Oscar and said this is how I feel to meet you.” That’s how it was for everyone to meet Oscar and to hear his marvellous music.\n\nHe made us all leap for joy at his genius."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "61a5b9b377110b66ab6e4904",
+        "title": "Performances",
+        "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/performances/thumbnail/oscar-perform.jpeg",
+        "displayOrder": 1,
+        "contentSectionElements": [
+          {
+            "id": "61a5ba0b77110b66ab6e4905",
+            "contentType": "Video Content",
+            "collectionTitle": "Hymn to Freedom",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/hymn_to_freedom/thumbnail/the-oscar-peterson-trio-hymn-to-freedom-76015.jpg",
+            "contentCollectionList": [
+              "{\"Id\":\"61a5ba0b77110b66ab6e4906\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/hymn_to_freedom/live_in_denmark/video_files/oscar_peterson_hymn_to_freedom.mp4\",\"Title\":\"Live in Denmark\",\"Description\":\"Oscar Peterson performs his song, Hymn to Freedom, Petersons ode to the Civil Rights Movement.  \"}"
+            ]
+          },
+          {
+            "id": "61a5baab77110b66ab6e4907",
+            "contentType": "Audio Content",
+            "collectionTitle": "Live Music",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/thumbnail/oscar-peterson-2.jpg",
+            "contentCollectionList": [
+              "{\"Id\":\"61a5baab77110b66ab6e4908\",\"Title\":\"C Jam Blues\\u00A0\",\"Description\":\"Oscar Peterson performance live in Denmark with Ray Brown and Ed Thigpen.  \",\"CoverPhoto\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/cjamblues.jpg\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar_peterson/live_music/c_jam_blues/audio_files/oscar-c-jam-blues.mp3\"}",
+              "{\"Id\":\"61a5baab77110b66ab6e4909\",\"Title\":\"You Look Good To Me Live\\u00A0\",\"Description\":\"Introduction to Oscar Peterson’s Trio album, We Get Requests in the Netherlands in 1965.\",\"CoverPhoto\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/Wegetrequests.jpg\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/you_look_good_to_me_live/audio_files/oscar-peterson-trio-you-look-good.mp3\"}"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "61a5bb0a77110b66ab6e4909",
+        "title": "Early Life",
+        "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_life/thumbnail/oscar-dc.jpeg",
+        "displayOrder": 2,
+        "contentSectionElements": [
+          {
+            "id": "61a5bb3277110b66ab6e490a",
+            "contentType": "Photo Content",
+            "collectionTitle": "Family",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar_Peterson/Family/thumbnail/oscar-father.png",
+            "contentCollectionList": [
+              "{\"Id\":\"61a5bb3277110b66ab6e490b\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar_Peterson/Family/photo_files/oscar-father.png\",\"Description\":\"Oscar Peterson and his father, Daniel, at the piano, 1944.\"}",
+              "{\"Id\":\"61a5bb3277110b66ab6e490c\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/family/e011073127-v8.jpg\",\"Description\":\"Oscar Peterson on piano, with his brother, Chuck, accompanying him on trumpet, 1944. \"}",
+              "{\"Id\":\"61a5bb3277110b66ab6e490d\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/family/e011073128-v8.jpg\",\"Description\":\"Oscar Peterson with his sister, Daisy, at the piano, 1944\"}",
+              "{\"Id\":\"61a5bb3277110b66ab6e490e\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/family/oscar-dc.jpeg\",\"Description\":\"Oscar Peterson, photographed by D.C. Langford, 1944.\"}"
+            ]
+          },
+          {
+            "id": "61a5bb7a77110b66ab6e490e",
+            "contentType": "Photo Content",
+            "collectionTitle": "Early Career",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar_peterson/early_life/image_jpg_0.img.jpg",
+            "contentCollectionList": [
+              "{\"Id\":\"61a5bb7a77110b66ab6e490f\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar_peterson/early_life/image_jpg_0.img.jpg\",\"Description\":\"Oscar with Russ Dufort and Armand Samson, on stage with the Johnny Holmes Orchestra at Victoria Hall in 1946.\"}",
+              "{\"Id\":\"61a5bb7a77110b66ab6e4911\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_career/oscar-peterson-early-life.png\",\"Description\":\"Young Oscar blossoms with the Johnny Holmes Orchestra. \"}",
+              "{\"Id\":\"61a5bb7a77110b66ab6e4912\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_career/P016-02-14_141.jpg\",\"Description\":\"Johnny Holmes and Oscar Peterson rehearsing at the Holmes apartment\"}",
+              "{\"Id\":\"61a5bb7a77110b66ab6e4913\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_career/j-Jazz-Peterson3.5.jpg\",\"Description\":\"Johnny Holmes and Oscar Peterson during one of their regular meetings at Holmes' apartment, 1944.\"}"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "607788475e98dfb2d01acd19",
+    "firstName": "Krisztina",
+    "lastName": "Szabo",
+    "occupation": "Musician",
+    "yearInducted": "2012",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Krisztina-Szabo/profile-photos/Krisztina-Szabo.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "6077885b5e98dfb2d01acd1a",
+    "firstName": "Gil",
+    "lastName": "Moore",
+    "occupation": "Musician",
+    "yearInducted": "2012",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Gil-Moore/profile-photos/Gil-Moore.jpeg",
+    "isPublished": false
+  },
+  {
+    "id": "61a54c62050dea1e34e819b0",
+    "firstName": "Oscar ",
+    "lastName": "Peterson",
+    "occupation": "Musician",
+    "yearInducted": "2012",
+    "funFacts": [
+      "At the age of 9, Oscar played the piano with a degree of control that impressed professionals.",
+      " Oscar played the piano with a degree of control that impressed professionals.",
+      "The Royal Conservatory of Music honours Oscar Peterson by renaming its community school after him.",
+      "A dedicated performer  Peterson continued to perform live even after a stroke in 1993 limited use of his left hand."
+    ],
+    "welcomeVideo": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/welcome_video/oscar_peterson_welcome_video.mp4",
+    "inducteePhoto": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/profile_photo/oscar-peterson-profile-photo.jpg",
+    "isPublished": false,
+    "arModel": {
+      "arModelLink": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/ar_files/oscar_peterson.usdz",
+      "arAudioCompanionLink": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/ar_files/oscar-peterson-trio-you-look-good.mp3",
+      "arModeEnabled": true
+    },
+    "contentSections": [
+      {
+        "id": "61a54f2b38442dbbbb9c6cac",
+        "title": "Biography",
+        "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/biography/thumbnail/oscar_bio.jpg",
+        "displayOrder": 0,
+        "contentSectionElements": [
+          {
+            "id": "61a54f5238442dbbbb9c6cae",
+            "contentType": "Text Content",
+            "collectionTitle": "Biography",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar_Peterson/Biography/thumbnail/oscar_bio.jpg",
+            "contentCollectionList": [
+              "Oscar Peterson’s sound may be the most recognizable thing in jazz.\nIn fact, it may be the most recognizable thing in music. Millions of jazz fans can tell from just a few notes that they are listening to Oscar play piano — his sense of time, his phrasing, his command and his vitality — they all signify that you are listening to “the Maharaja of the piano” as Duke Ellington famously called him.\n\nPeterson was born in Montreal, was unveiled to the world by his great friend and producer Norman Granz at Carnegie Hall in September 1949 and was embraced by the international jazz community in a career that spanned six decades — and spawned a legacy that is unmatched by any other Canadian jazz player and few other musicians anywhere in the world.\n\nHis fellow performers revered Peterson for his impossibly high standards, his relentless drive to be the best and his versatility — which saw him front his brilliant trios, act as the house pianist for Verve Records for a decade and then turn around and become the sensitive accompanist to the best-of-the-best of the jazz singing world, from Billie Holiday to the superb duets of Ella Fitzgerald and Louis Armstrong.\n\nWhen Oscar Peterson sat down at the piano stool, there was never any doubt that something extraordinary was about to happen. He’d flash that big smile, then unleash that big arsenal of sound to which, he alone, seemed to have exclusive domain.\n\nFellow pianist Marian McPartland may have put it best when she said: “He creates a different kind of emotion, a heady excitement, because of his overwhelming capacity to dazzle and generate exhilaration. At times, it’s almost as if he’s driven by a force greater than himself that makes him play at an impossible speed, but when he changes pace and performs a reflective piece, one can hear the tender side of Oscar, the voicings he uses that are his alone.”\n\nPeterson was a proud Canadian. His Canadiana Suite is an homage to his homeland that is as breathtaking in its scope as are the variations in landscape from Newfoundland to British Columbia that inspired its creation.\n\nHe was also a proud Mississaugan who lived here for some 35 years. Although he won 8 Grammies, the UNESCO International Music Prize, the Governor General’s lifetime achievement award for performing arts, the Jazz at Lincoln Centre award for artistic excellence and the equivalent of the Nobel prize for the arts, the prestigious Praemium Imperiale award, he said that two of the greatest honours in his career were the City’s 2003 tribute day for him, which included an all-star concert at LAC, and the naming of Oscar Peterson Public School in his honour.\n\nPeterson was a mentor and an inspiration to pianists everywhere, from Diana Krall, to Hiromi, the Japanese fusion phenom. The first words she learned to say in English were “Oscar Peterson.”\n\nShe told me in an interview before her 2004 tribute concert at LAC that one of her greatest honours was meeting Peterson at his home when she was in her early 20s.\n\n“It was an amazing experience. I could touch his piano. I could play his Boesendorfer. I was seeing my super-hero right in front of me. I was crazy- happy, listening to all of the stories about Frank Sinatra and all the other jazz legends he’s been playing with.\n\n“It was like a dream house to me, with all of the posters of old concerts on the walls. It was like a museum to me.”\n\nShe continued by saying “When I got back home I went to the park and they took a picture of me jumping as high in the air as I could. I love jumping. I sent it to Oscar and said this is how I feel to meet you.” That’s how it was for everyone to meet Oscar and to hear his marvellous music.\n\nHe made us all leap for joy at his genius."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "61a5b9b377110b66ab6e4904",
+        "title": "Performances",
+        "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/performances/thumbnail/oscar-perform.jpeg",
+        "displayOrder": 1,
+        "contentSectionElements": [
+          {
+            "id": "61a5ba0b77110b66ab6e4905",
+            "contentType": "Video Content",
+            "collectionTitle": "Hymn to Freedom",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/hymn_to_freedom/thumbnail/the-oscar-peterson-trio-hymn-to-freedom-76015.jpg",
+            "contentCollectionList": [
+              "{\"Id\":\"61a5ba0b77110b66ab6e4906\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/hymn_to_freedom/live_in_denmark/video_files/oscar_peterson_hymn_to_freedom.mp4\",\"Title\":\"Live in Denmark\",\"Description\":\"Oscar Peterson performs his song, Hymn to Freedom, Petersons ode to the Civil Rights Movement.  \"}"
+            ]
+          },
+          {
+            "id": "61a5baab77110b66ab6e4907",
+            "contentType": "Audio Content",
+            "collectionTitle": "Live Music",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/thumbnail/oscar-peterson-2.jpg",
+            "contentCollectionList": [
+              "{\"Id\":\"61a5baab77110b66ab6e4908\",\"Title\":\"C Jam Blues\\u00A0\",\"Description\":\"Oscar Peterson performance live in Denmark with Ray Brown and Ed Thigpen.  \",\"CoverPhoto\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/cjamblues.jpg\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar_peterson/live_music/c_jam_blues/audio_files/oscar-c-jam-blues.mp3\"}",
+              "{\"Id\":\"61a5baab77110b66ab6e4909\",\"Title\":\"You Look Good To Me Live\\u00A0\",\"Description\":\"Introduction to Oscar Peterson’s Trio album, We Get Requests in the Netherlands in 1965.\",\"CoverPhoto\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/Wegetrequests.jpg\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/live_music/you_look_good_to_me_live/audio_files/oscar-peterson-trio-you-look-good.mp3\"}"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "61a5bb0a77110b66ab6e4909",
+        "title": "Early Life",
+        "thumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_life/thumbnail/oscar-dc.jpeg",
+        "displayOrder": 2,
+        "contentSectionElements": [
+          {
+            "id": "61a5bb3277110b66ab6e490a",
+            "contentType": "Photo Content",
+            "collectionTitle": "Family",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar_Peterson/Family/thumbnail/oscar-father.png",
+            "contentCollectionList": [
+              "{\"Id\":\"61a5bb3277110b66ab6e490b\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/Oscar_Peterson/Family/photo_files/oscar-father.png\",\"Description\":\"Oscar Peterson and his father, Daniel, at the piano, 1944.\"}",
+              "{\"Id\":\"61a5bb3277110b66ab6e490c\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/family/e011073127-v8.jpg\",\"Description\":\"Oscar Peterson on piano, with his brother, Chuck, accompanying him on trumpet, 1944. \"}",
+              "{\"Id\":\"61a5bb3277110b66ab6e490d\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/family/e011073128-v8.jpg\",\"Description\":\"Oscar Peterson with his sister, Daisy, at the piano, 1944\"}",
+              "{\"Id\":\"61a5bb3277110b66ab6e490e\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/family/oscar-dc.jpeg\",\"Description\":\"Oscar Peterson, photographed by D.C. Langford, 1944.\"}"
+            ]
+          },
+          {
+            "id": "61a5bb7a77110b66ab6e490e",
+            "contentType": "Photo Content",
+            "collectionTitle": "Early Career",
+            "collectionThumbnail": "https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar_peterson/early_life/image_jpg_0.img.jpg",
+            "contentCollectionList": [
+              "{\"Id\":\"61a5bb7a77110b66ab6e490f\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar_peterson/early_life/image_jpg_0.img.jpg\",\"Description\":\"Oscar with Russ Dufort and Armand Samson, on stage with the Johnny Holmes Orchestra at Victoria Hall in 1946.\"}",
+              "{\"Id\":\"61a5bb7a77110b66ab6e4911\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_career/oscar-peterson-early-life.png\",\"Description\":\"Young Oscar blossoms with the Johnny Holmes Orchestra. \"}",
+              "{\"Id\":\"61a5bb7a77110b66ab6e4912\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_career/P016-02-14_141.jpg\",\"Description\":\"Johnny Holmes and Oscar Peterson rehearsing at the Holmes apartment\"}",
+              "{\"Id\":\"61a5bb7a77110b66ab6e4913\",\"File\":\"https://mmwfbucket.s3.us-east-2.amazonaws.com/oscar__peterson/early_career/j-Jazz-Peterson3.5.jpg\",\"Description\":\"Johnny Holmes and Oscar Peterson during one of their regular meetings at Holmes' apartment, 1944.\"}"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
